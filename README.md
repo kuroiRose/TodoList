@@ -3,6 +3,6 @@ A todo list using React
 
 
 *Functionality:*
-Add new todos \n
-Mark todos as complete \n
-Delete todos \n
+Add new todos\
+Mark todos as complete\
+Delete todos
