@@ -2,7 +2,7 @@
 A todo list using React
 
 
-*Functionality:*
+*Functionality:*\
 Add new todos\
 Mark todos as complete\
 Delete todos
